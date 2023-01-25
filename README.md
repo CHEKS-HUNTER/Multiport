@@ -1,3 +1,6 @@
+# Script NAKATAVPN V2-Websocket
+ Welcome JANDA KU😜
+
 ## Update & Upgrade First Your VPS for Debian 10 & 11
 
   ```html
@@ -82,5 +85,17 @@ systemctl restart wg-quick@wg0
    - Full Orders For Various Services
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Credit :
+
+*   NAKATAVPN
+
+*   Project B
+
+*   V2ray
+
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-NAKATAVPN%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+    </p>
+   </p>
 
 
